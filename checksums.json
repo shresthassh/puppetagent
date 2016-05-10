@@ -1,0 +1,12 @@
+{
+  "README.md": "c4cdad01a526c476ebd3eca5ac3e2221",
+  "Rakefile": "20b80e526e351a74df2001f504e756d2",
+  "manifests/init.pp": "ef7ce93fc8c7740b751e2e17900de794",
+  "metadata.json": "6b9705cb1f1f10b082aad90b5234384b",
+  "spec/classes/init_spec.rb": "509c6d00a1f687daf1c68a204d72dc64",
+  "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+  "templates/puppet_aix.erb": "331908649d7bb66ff04788bee578f308",
+  "templates/puppet_rhel.erb": "01d7a245d7c4b80009dac20c4cabe63f",
+  "templates/restart_puppet.erb": "05a11085dff9fbfd08d0ae81ede34551",
+  "tests/init.pp": "7bf3a60dbb747f1ff941249c2887fd78"
+}
